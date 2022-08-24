@@ -1,3 +1,2 @@
-function(name) {
-	console.log("Hello, is your name  " + name + "?");
-}
+console.log("Hello, is your name  " + name + "?");
+
